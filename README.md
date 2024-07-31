@@ -20,7 +20,6 @@ Myntra aims to balance competitive pricing with attractive discounts across dive
 - Python: Data cleaning, Exploratory Data Analysis (EDA)
 - Pandas: Data manipulation and analysis
 - Matplotlib and Seaborn: Data visualization
-- Power BI: Dashboard creation and data presentation
 
 ### **Data Cleaning Steps**
 - Dropping unnecessary columns: Removed 'img', 'asin', and 'purl' columns.
